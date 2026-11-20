@@ -1,4 +1,4 @@
-"""Copy the bundled entry.png to /output/entry.png."""
+"""Copy the bundled entry.png to /output/entry.png. Winner-style revision (21 Nov): giant date masthead, 15 illustrated cards, grouped also-on lists."""
 
 import hashlib
 import os
